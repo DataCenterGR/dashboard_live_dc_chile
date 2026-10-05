@@ -1,0 +1,133 @@
+{
+  "title": "Dashboard proyecto GR",
+  "generated_from": "20260901 Analisis estados de proyecto GR (1).xlsx",
+  "solicitudes": {
+    "total_projects": 118,
+    "total_capacity_mw": 13696.8,
+    "status_counts": {
+      "Rechazada": 50,
+      "Desistida": 23,
+      "Detenida a la espera de definición de ingeniería de la obra": 19,
+      "Proyecto autorizado para declararse en construcción": 7,
+      "Proyecto declarado en construcción": 7,
+      "Observaciones a Informe de Autorización de Conexión Preliminar": 3,
+      "Proyecto declarado en construccion": 3,
+      "Audiencia y antecedentes adicionales": 1,
+      "Desarrollo de estudios y/o antecedentes": 1,
+      "Elaboración Informe de Autorización de Conexión Preliminar": 1,
+      "Evaluación Admisibilidad": 1,
+      "Proyecto Autorizado para Declararse en Construcción": 1,
+      "Solicitud ingresada": 1
+    },
+    "region_counts": {
+      "Antofagasta": 27,
+      "Metropolitana de Santiago": 13,
+      "Tarapacá": 13,
+      "Libertador General Bernardo OHiggins": 11,
+      "Maule": 11,
+      "Atacama": 10,
+      "Valparaiso": 10,
+      "Biobío": 7,
+      "Coquimbo": 5,
+      "Ñuble": 4,
+      "Los Lagos": 3,
+      "Los Ríos": 3,
+      "Arica y Parinacota": 1
+    },
+    "type_counts": {
+      "Solar": 64,
+      "Híbrido": 47,
+      "Eólico": 7
+    },
+    "top_projects": [
+      {
+        "project": "PFV El Vencedor II",
+        "capacity": 800.0,
+        "region": "Antofagasta",
+        "status": "Rechazada"
+      },
+      {
+        "project": "PFV FOBOS",
+        "capacity": 700.0,
+        "region": "Antofagasta",
+        "status": "Rechazada"
+      },
+      {
+        "project": "Parque Fotovoltaico Cosmos",
+        "capacity": 600.0,
+        "region": "Antofagasta",
+        "status": "Desistida"
+      },
+      {
+        "project": "PFV El Vencedor 1",
+        "capacity": 400.0,
+        "region": "Antofagasta",
+        "status": "Rechazada"
+      },
+      {
+        "project": "PE Eleusis 300 MW",
+        "capacity": 300.0,
+        "region": "Coquimbo",
+        "status": "Rechazada"
+      },
+      {
+        "project": "Parque Eólico Caos",
+        "capacity": 300.0,
+        "region": "Antofagasta",
+        "status": "Rechazada"
+      },
+      {
+        "project": "PFV Chanqueahue",
+        "capacity": 250.0,
+        "region": "Libertador General Bernardo OHiggins",
+        "status": "Detenida a la espera de definición de ingeniería de la obra"
+      },
+      {
+        "project": "PFV Rumay",
+        "capacity": 250.0,
+        "region": "Coquimbo",
+        "status": "Rechazada"
+      },
+      {
+        "project": "Parque Fotovoltaico Violeta",
+        "capacity": 250.0,
+        "region": "Arica y Parinacota",
+        "status": "Desistida"
+      },
+      {
+        "project": "BESS Monte Águila",
+        "capacity": 240.0,
+        "region": "Biobío",
+        "status": "Solicitud ingresada"
+      }
+    ]
+  },
+  "dc": {
+    "total_projects": 48,
+    "total_investment": 4972.5,
+    "region_counts": {
+      "Metropolitana": 33,
+      "Valparaíso": 5,
+      "Sin dato": 4,
+      "891.23194595225152": 2,
+      "144.80613983285318": 1,
+      "216.45743757336427": 1,
+      "Promedio Operación": 1,
+      "pag 27 par3": 1
+    },
+    "state_counts": {
+      "Aprobado": 20,
+      "Sin dato": 9,
+      "Pendiente": 8,
+      "Desistido": 7,
+      "144.80613983285318": 1,
+      "4 etapas": 1,
+      "No Admitido a Tramitación": 1,
+      "Renuncia RCA": 1
+    }
+  },
+  "acceso_2026": {
+    "total_projects": 2640,
+    "total_capacity_mw": 1477.6
+  }
+}
